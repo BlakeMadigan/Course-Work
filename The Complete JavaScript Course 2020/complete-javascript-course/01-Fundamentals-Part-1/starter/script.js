@@ -1,3 +1,6 @@
+/*
+//Video 10. Values and Variables
+
 let js = 'amazing';
 console.log(40 + 8 + 23 - 10);
 
@@ -23,10 +26,28 @@ let job2 = "teacher";
 
 console.log(myFirstJob);
 
-//Assignment: Values and Variables
+// Video 11. Data Types
 
-let country = "Australia"; 
-let continent = "Australia";
-let population = 24.99; 
+true;
+let javascriptIsFun = true;
+console.log(javascriptIsFun);
 
-console.log("I live in " + country + " which is part of the continent of " + continent + " and has a population of " + population + " million people!")
+// console.log(typeof(true));
+console.log(typeof(javascriptIsFun));
+// console.log(typeof(23));
+// console.log(typeof 'Jonas');
+
+javascriptIsFun = 'YES!';
+console.log(javascriptIsFun);
+console.log(typeof(javascriptIsFun));
+
+let year;
+console.log(year);
+console.log(typeof year);
+
+year = 1991;
+console.log(year);
+console.log(typeof year);
+
+console.log(typeof null);
+*/
