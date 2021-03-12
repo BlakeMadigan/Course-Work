@@ -1,9 +1,9 @@
 # Course-Work
 
-I'll be detailing my course work history in this repo to further my chances or finding work
+I'll be detailing my course work history in this repo to further my chances of finding work
 
 ---
-I in no way created any of this course content, I am merely a student, this is purely a repo for backup/trackin and showing potential employers.
+I in no way created any of this course content, I am merely a student, this is purely a repo for backup/tracking and showing potential employers.
 
 ---
 Credit:
